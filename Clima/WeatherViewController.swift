@@ -5,7 +5,7 @@
 //  Created by Angela Yu on 23/08/2015.
 //  Copyright (c) 2015 London App Brewery. All rights reserved.
 //
-
+// it my weather app that i create due to the help of ALLAH 
 import UIKit
 import CoreLocation
 import Alamofire
